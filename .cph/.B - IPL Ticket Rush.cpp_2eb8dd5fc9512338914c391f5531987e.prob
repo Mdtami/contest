@@ -1,0 +1,1 @@
+{"name":"Local: B - IPL Ticket Rush","url":"c:\\Users\\HP\\OneDrive\\Desktop\\contest\\B - IPL Ticket Rush.cpp","tests":[{"id":1683906748411,"input":"4\n5 3\n5 7\n4 1\n8 8\n","output":"2\n0\n3\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\contest\\B - IPL Ticket Rush.cpp","group":"local","local":true}
