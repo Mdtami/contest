@@ -1,0 +1,1 @@
+{"name":"Local: E - E4","url":"c:\\Users\\HP\\OneDrive\\Desktop\\contest\\E - E4.cpp","tests":[{"id":1692376785393,"input":"bab","output":"abb"},{"id":1692377022821,"input":"abbaca","output":"aaabbc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\contest\\E - E4.cpp","group":"local","local":true}
