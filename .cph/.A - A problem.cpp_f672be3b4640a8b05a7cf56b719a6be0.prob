@@ -1,0 +1,1 @@
+{"name":"Local: A - A problem","url":"c:\\Users\\HP\\Desktop\\contest 2\\A - A problem.cpp","tests":[{"id":1679068048339,"input":"2\n5 10\n3 5 3 2 1\n4 6\n10 8 6 4","output":"11010\n0010"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\contest 2\\A - A problem.cpp","group":"local","local":true}

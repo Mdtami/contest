@@ -1,0 +1,1 @@
+{"name":"Local: E - E","url":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\E - E.cpp","tests":[{"id":1684527359110,"input":"7 3 5 5","output":"YES"},{"id":1684527521354,"input":"7 3 5 6","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\E - E.cpp","group":"local","local":true}

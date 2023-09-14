@@ -1,0 +1,1 @@
+{"name":"Local: D - D","url":"c:\\Users\\HP\\Desktop\\contest 2\\D - D.cpp","tests":[{"id":1677861713430,"input":"November\n3\n","output":"February"},{"id":1677861953155,"input":"November\n3","output":"February"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\contest 2\\D - D.cpp","group":"local","local":true}

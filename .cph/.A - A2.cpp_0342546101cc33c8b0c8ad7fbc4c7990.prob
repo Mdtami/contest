@@ -1,0 +1,1 @@
+{"name":"Local: A - A2","url":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\A - A2.cpp","tests":[{"id":1680251973366,"input":"3\n5 -10 15\n","output":""},{"id":1680251978081,"input":"5\n-14 -5 -39 -5 -7\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\A - A2.cpp","group":"local","local":true}

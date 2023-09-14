@@ -1,0 +1,1 @@
+{"name":"Local: B - Valid Triangles","url":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\B - Valid Triangles.cpp","tests":[{"id":1686409583584,"input":"3 \n40 40 100\n45 45 90\n180 1 1\n","output":"YES\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\B - Valid Triangles.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: D - D2","url":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\D - D2.cpp","tests":[{"id":1680252764250,"input":"4\n5 20\n10 60\n7 7\n10 55\n","output":"FIRST\nSECOND\nFIRST\nBOTH\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\contest 2\\D - D2.cpp","group":"local","local":true}
